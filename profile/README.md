@@ -1,5 +1,5 @@
 ## KWADAI FOOD NG
-![KWADAI LOGO](/logo/kwadai.jpg)
+![KWADAI LOGO](/profile/kwadai.jpg)
 <!--
 
 **Here are some ideas to get you started:**
