@@ -1,4 +1,4 @@
-## KWADAI FOOD NG
+## WELCOME to KWADAI FOOD 
 ![KWADAI LOGO](/profile/kwadai.jpg)
 <!--
 
