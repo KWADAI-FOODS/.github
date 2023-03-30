@@ -1,6 +1,6 @@
 # WELCOME to KWADAI FOOD 
 
-![KWADAI LOGO](/profile/kwadai.jpg)
+![KWADAI LOGO](/profile/kwadai.jpg) 
 ## Welcome to Kwadai Food, your go-to destination for mouth-watering dishes and culinary delights!
 <!--
 
